@@ -1,4 +1,4 @@
-/* enchant
+﻿/* enchant
  * Copyright (C) 2003, 2004 Dom Lachowicz
  * Copyright (C) 2017 Reuben Thomas <rrt@sc3d.org>
  *
